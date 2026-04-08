@@ -48,7 +48,7 @@ int main() {
     nota_a1 = 6.0f;
     nota_a2 = 5.0f;
     nota_a3 = 0.0f;
-    mwdia_final = 5.5f;
+    media_final = 5.5f;
 
     printf("%05i %5.1f %5.1f %5.1f %5.1f\n", codigo_displina, nota_a1, nota_a2, nota_a3, media_final);
 
@@ -56,7 +56,7 @@ int main() {
     nota_a1 = 4.0f;
     nota_a2 = 4.0f;
     nota_a3 = 4.0f;
-    mwdia_final = 4.0f;
+    media_final = 4.0f;
 
 return 0;
 }
